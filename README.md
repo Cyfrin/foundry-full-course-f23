@@ -1366,24 +1366,33 @@ ANYWHERE written in plain text
 
 💻 Code:[https://github.com/Cyfrin/foundry-fund-me-f23](https://github.com/Cyfrin/foundry-fund-me-f23)
 ## Introduction 
+*[⌨️ (0:00:08) | Introduction](https://www.youtube.com/watch?v=sas02qSFZ74&t=8s)*
 
 ## Setup
+*[⌨️ (0:02:51) | Special Guest from Aragon](https://www.youtube.com/watch?v=sas02qSFZ74&t=171s)*
 
 ## Testing Introduction
+*[⌨️ (0:04:41) | Testing Introduction](https://www.youtube.com/watch?v=sas02qSFZ74&t=281s)*
 
 ## Setup Continued
+*[⌨️ (0:06:15) | Setup Continued](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=23033s)*
 - [Dependencies](https://book.getfoundry.sh/projects/dependencies)
 - [remappings](https://book.getfoundry.sh/reference/forge/forge-remappings)
 
 ## Tests
+*[⌨️ (0:06:15) | Tests](https://www.youtube.com/watch?v=sas02qSFZ74&t=715s)*
 - [foundry tests](https://book.getfoundry.sh/forge/writing-tests)
 - [console.log](https://book.getfoundry.sh/reference/forge-std/console-log?highlight=con#console-logging)
 
 ## Debugging Tests I
+*[⌨️ (0:20:45) | Debugging Tests I ](https://www.youtube.com/watch?v=sas02qSFZ74&t=1245s)*
+
 
 ## Advanced Deploy Scripts I
+*[⌨️ (0:23:17) | Advanced Deploy Scripts I ](https://www.youtube.com/watch?v=sas02qSFZ74&t=1397s)*
 
 ## Forked Tests
+*[⌨️ (0:25:46) | Forked Tests](https://www.youtube.com/watch?v=sas02qSFZ74&t=1546s)*
 -  4 types of testing:
 ```
 1. Unit: Testing a single function
@@ -1395,19 +1404,23 @@ ANYWHERE written in plain text
 - [forge coverage](https://book.getfoundry.sh/reference/forge/forge-coverage?highlight=cover#description)
 
 ## Refactoring I: Testing Deploy Scripts
+*[⌨️ (0:34:19) | Testing Deploy Scripts](https://www.youtube.com/watch?v=sas02qSFZ74&t=2059s)*
 
 ## Refactoring II: Helper Config
+*[⌨️ (0:41:30) | Helper Config](https://www.youtube.com/watch?v=sas02qSFZ74&t=2490s)*
 - [block.chainid](https://docs.soliditylang.org/en/v0.8.19/units-and-global-variables.html)
 - [Chain ID List](https://chainlist.org/)
   - 11155111 is ETH Sepolia
   - 1 is ETH Mainnet
 
 ## Refactoring III: Mocking (continued)
+*[⌨️ (0:54:33) | Mocks ](https://www.youtube.com/watch?v=sas02qSFZ74&t=3273s)*
 - [Mocking](https://stackoverflow.com/questions/2665812/what-is-mocking)
 - [Chainlink Github](https://github.com/smartcontractkit/chainlink)
 - Multiple Versions of Solidity
 
 ## Magic Numbers
+*[⌨️ (0:58:42) | Magic Number](https://www.youtube.com/watch?v=sas02qSFZ74&t=3522s)*
 - [Style Guide](https://docs.soliditylang.org/en/v0.8.17/style-guide.html)
 - [Magic Numbers](https://codeburst.io/software-anti-patterns-magic-numbers-7bc484f40544)
 
@@ -1417,6 +1430,7 @@ Take a break!
 *****
 
 ## More Cheatcodes
+*[⌨️ (1:05:06) | More Cheatcodes](https://www.youtube.com/watch?v=sas02qSFZ74&t=3906s)*
 - [foundry cheatcodes](https://book.getfoundry.sh/forge/cheatcodes)
 - [forge std cheats](https://book.getfoundry.sh/reference/forge-std/)
   - [vm.expectRevert](https://book.getfoundry.sh/cheatcodes/expect-revert?highlight=expectRevert#expectrevert)
@@ -1425,6 +1439,7 @@ Take a break!
   - [deal](https://book.getfoundry.sh/cheatcodes/deal?highlight=deal#deal)
 
 ## More Coverage
+*[⌨️ (1:17:38) | More Coverage](https://www.youtube.com/watch?v=sas02qSFZ74&t=4658s)*
 - [State tree testing](https://twitter.com/PaulRBerg/status/1624763320539525121?s=20)
 - Arrange, Act, Assert
 - [hoax](https://book.getfoundry.sh/reference/forge-std/hoax?highlight=hoax#hoax)
@@ -1432,9 +1447,11 @@ Take a break!
 - [vm.startPrank](https://book.getfoundry.sh/cheatcodes/start-prank?highlight=startPrank#startprank)
 
 ## Chisel 
+*[⌨️ (1:32:25) | Chisel](https://www.youtube.com/watch?v=sas02qSFZ74&t=5545s)*
 - [Chisel](https://book.getfoundry.sh/reference/chisel/?highlight=chisel#chisel)
 
 ## Gas: Cheaper Withdraw
+*[⌨️ (1:33:50) | Cheaper Withdraw](https://www.youtube.com/watch?v=sas02qSFZ74&t=5630s)*
 - [Gas Reporter](https://book.getfoundry.sh/forge/gas-reports)
 - `forge snapshot`
 - `vm.txGasPrice`
@@ -1442,6 +1459,7 @@ Take a break!
 - `tx.getprice`
 
 ## Storage 
+*[⌨️ (1:38:37) | Storage](https://www.youtube.com/watch?v=sas02qSFZ74&t=5917s)*
 ** Advanced **
 - [Storage Layout](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
 - [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
@@ -1458,21 +1476,25 @@ cast storage
 - [Chainlink Solidity Style Guide](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 
 ## Gas: Cheaper Withdraw (continued)
+*[⌨️ (1:48:22) | Cheaper Withdraw (continued)](https://www.youtube.com/watch?v=sas02qSFZ74&t=6502s)*
 - [evm.codes]()
 - [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
   - [Chainlink Style Guide](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/STYLE.md)
 - [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html)
 
 ## Interactions.s.sol
+*[⌨️ (1:56:13) | Interactions.s.sol](https://www.youtube.com/watch?v=sas02qSFZ74&t=6973s)*
 - [foundry devops](https://github.com/Cyfrin/foundry-devops)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
 - [ffi](https://book.getfoundry.sh/cheatcodes/ffi?highlight=ffi#ffi)
 
 ## Makefile
+*[⌨️ (2:10:56) | Makefile](https://www.youtube.com/watch?v=sas02qSFZ74&t=7856s)*
 - [Install make](https://stackoverflow.com/questions/39892692/how-to-implement-make-install-in-a-makefile)
 - [Etherscan API Key](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics)
 
 ## Pushing to GitHub
+*[⌨️ (2:19:13) | Pushing to GitHub ](https://www.youtube.com/watch?v=sas02qSFZ74&t=8353s)*
 - Add these to your `.gitignore`
   - `.env`
   - `lib/`
@@ -1487,6 +1509,7 @@ cast storage
 ## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!)
 
 ## Recap
+*[⌨️ (2:35:11) | Recap](https://www.youtube.com/watch?v=sas02qSFZ74&t=9311s)*
 
 # Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
 
@@ -1874,24 +1897,42 @@ Plutocracy is bad! Don't default to ERC20 token voting!!
 
 - [Plutacray is bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
 - [DAOs are not corporations](https://vitalik.ca/general/2022/09/20/daos.html)
+
 ## What is a DAO?
+*[⌨️ (6:07:39) | DAO video Excerpt](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=22059s)*
 - [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
+
+## Aragon DAOs Introduction
+*[⌨️ (6:23:53) | Special Guest from Aragon](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=23033s)*
 - Special Guest [Juliette](https://twitter.com/_juliettech)
+
 ## How to build a DAO
 ### Setup
+*[⌨️ (6:29:05) | Setup](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=23345s)*
 - [How to build a DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
 - That's Patrick
 - [PY Code](https://github.com/brownie-mix/dao-mix)
 - [Python Video](https://www.youtube.com/watch?v=rD8AxZ_wBA4)
+
 ### Governance Token
+*[⌨️ (6:34:03) | Governance Token](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=23643s)*
 - [Openzeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/api/governance)
 - [Compound Governance](https://compound.finance/governance)
 - [Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
+
 ### Governor
+*[⌨️ (6:38:01) | Governor](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=23881s)*
 - [CastVoteBySig](https://forum.openzeppelin.com/t/what-is-votecastbysig/17069/2)
+
 ### Tests
+*[⌨️ (6:52:17) | Tests](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=24737s)*
+- Testing the box contract with all the DAO's functionalities.
+
 ## Wrap up
+*[⌨️ (7:15:39) | Wrap-up](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26139s)*
+
 ## Bonus: Gas optimization tips
+*[⌨️ (6:23:53) | Gas optimizations tips](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26211s)*
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
 # Lesson 15: Smart Contract Security & Auditing (For developers)
